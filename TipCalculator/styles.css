@@ -2,3 +2,9 @@ html {
     font-size: 10px;
     color: #434d4d;
 }
+
+main {
+    max-width: 50rem;
+    margin: 2rem auto;
+    background: linear-gradient(90deg, #00A19D, #fff8e5);
+}
