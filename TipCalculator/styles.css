@@ -32,4 +32,17 @@ section {
 
 section > div {
     padding: 1.6rem 0;
+
+}
+
+.bill {
+    display: flex;
+}
+
+.bill label {
+    flex: 1
+}
+
+.bill input {
+    flex: 3
 }
