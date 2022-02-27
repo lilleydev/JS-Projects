@@ -40,9 +40,18 @@ section > div {
 }
 
 .bill label {
-    flex: 1
+    flex: 1;
+    align-self: center;
 }
 
 .bill input {
     flex: 3
+}
+
+input[type="number"] {
+    background: lightgray;
+    font-size: 1.6rem;
+    border: 2px solid lightgray;
+    border-radius: 0.5rem;
+    padding: 0.8rem 0 0.8rem 0.8rem;
 }
